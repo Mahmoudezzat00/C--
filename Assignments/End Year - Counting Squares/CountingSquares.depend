@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513819439 source:e:\mappás\dokumentumok\egyetempls\cpp-rog\codeblox\countingsquares\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<ctime>
+

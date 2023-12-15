@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513766273 source:e:\mappás\dokumentumok\egyetempls\cpp-rog\codeblox\hazi2maskepp\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<ctime>
+	<algorithm>
+	<vector>
+

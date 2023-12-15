@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514644260 source:e:\mappás\dokumentumok\egyetempls\cpp-rog\codeblox\zucc\main.cpp
+	<iostream>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<ctime>
+	<algorithm>
+	<vector>
+
